@@ -15,6 +15,13 @@
       "when": 1733767564399,
       "tag": "0001_sleepy_rumiko_fujikawa",
       "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "7",
+      "when": 1733841360309,
+      "tag": "0002_short_spacker_dave",
+      "breakpoints": true
     }
   ]
 }
